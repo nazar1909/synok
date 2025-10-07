@@ -1,1 +1,1 @@
-print("PIZDEC")
+print("PIZDEC blyaaa")
